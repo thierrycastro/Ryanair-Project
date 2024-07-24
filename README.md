@@ -20,11 +20,11 @@ Pré-condições:
 
 Passos para a execução do teste:
 
-Abra o terminal e navegue até o diretório do projeto
+1. Abra o terminal e navegue até o diretório do projeto
 
-Execute o Cypress: npx cypress open
+2. Execute o Cypress: npx cypress open
 
-No Cypress Test Runner, selecione o teste de login para executá-lo.
+3. No Cypress Test Runner, selecione o teste de login para executá-lo.
 
 -----
 
