@@ -69,6 +69,7 @@ Histórico de Alterações:
 o	Descrição: Caso de teste inicial criado.
 
 o	Autor: Thierry Castro
+
 • Data: 24/07/2024
 
 o	Descrição: Adicionadas notas sobre compatibilidade cross-browser.
