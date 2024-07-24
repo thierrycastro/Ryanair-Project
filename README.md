@@ -8,11 +8,15 @@ Tecnologia:
 
 • Ferramenta de Teste: Cypress
 
+-----
+
 Pré-condições:
 
 • O ambiente de teste deve estar configurado e acessível.
 
 • Cypress deve estar instalado e configurado no projeto.
+
+-----
 
 Passos para a execução do teste:
 
@@ -22,6 +26,8 @@ Execute o Cypress: npx cypress open
 
 No Cypress Test Runner, selecione o teste de login para executá-lo.
 
+-----
+
 Critérios de Aceitação:
 
 • O usuário deve conseguir escolher o destino da viagem
@@ -30,15 +36,21 @@ Critérios de Aceitação:
 
 • O usuário deve conseguir escolher seus assentos
 
+-----
+
 Resultados Esperados:
 
 • Passagens de ida e volta com as datas e assentos escolhidos no carrinho de compra
+
+-----
 
 Notas Adicionais:
 
 • Testar diferentes navegadores (Google Chrome, Mozilla Firefox) usando o Cypress.
 
 • Documentar qualquer comportamento inesperado encontrado durante os testes.
+
+-----
 
 Ambiente de Teste:
 
@@ -47,6 +59,8 @@ Ambiente de Teste:
 • Navegadores: Google Chrome - Versão 125.0.6422.176 (x64 bits), Mozila Firefox - Versão 127.0.1 (x64 bits), Microsoft Edge - Versão 126.0.2592.81 (x64 bits).
 
 • Versão da Aplicação: 1.0.0
+
+-----
 
 Histórico de Alterações:
 
@@ -60,6 +74,9 @@ o	Autor: Thierry Castro
 o	Descrição: Adicionadas notas sobre compatibilidade cross-browser.
 
 o	Autor: Thierry Castro
+
+-----
+
 Anexos:
 
 • Protejo_Ryanair.mp4
