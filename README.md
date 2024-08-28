@@ -16,6 +16,9 @@ Este caso de teste automatizado verifica a funcionalidade do sistema de escolha 
 1. O ambiente de teste deve estar configurado e acessível.
 2. Cypress deve estar instalado e configurado no projeto.
 
+### Para a execução do teste:
+Execute o Cypress: npx cypress open
+
 ### Notas
 - Em caso de falha, adicione comentários detalhados sobre o erro encontrado.
 - Anexe capturas de tela, se necessário.
@@ -23,4 +26,3 @@ Este caso de teste automatizado verifica a funcionalidade do sistema de escolha 
 ### Status
 - **Data do Teste:** 20/07/2024
 - **Testador:** Thierry Castro
-- **Resultado:** Passou
