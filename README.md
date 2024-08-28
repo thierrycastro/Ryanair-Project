@@ -6,7 +6,7 @@
 Este caso de teste automatizado verifica a funcionalidade do sistema de escolha de Passagens aéreas, Tarifa, Tamanho de mala, Escolha dos assentos e Validação de Pop-up na aplicação web usando Cypress. O objetivo é garantir que o sistema permita que um usuário faça as escolhas acima antes de realizar o login.
 
 ### Escopo
-- Página: https://www.ryanair.com/pt/pt
+- Página: https://www.ryanair.com/pt/
 - Navegadores: Chrome Versão 125.0.6422.176 (x64 bits)
 - Dispositivos: Desktop
 - Sistema Operacional: Windows 10
